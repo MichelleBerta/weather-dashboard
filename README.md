@@ -4,15 +4,12 @@ unit 6 homework
 
 This weather dashboard runs in the browser and features dynamically updated HTML and CSS.
 
-## User Story
 
 ```
 AS A traveler
 I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 ```
-
-## Acceptance Criteria
 
 ```
 GIVEN a weather dashboard with form inputs
@@ -29,3 +26,5 @@ THEN I am again presented with current and future conditions for that city
 ```
 
 ![weather-dashboard](assets/images/weather-dashboard-screenshot.png)
+
+https://michelleberta.github.io/weather-dashboard/
